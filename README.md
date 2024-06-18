@@ -1,7 +1,8 @@
 ![logo](https://github.com/KhandelwalKapil2003/KhandelwalKapil2003/blob/main/.png)
-<h1 align="center">Hi 👋, I'm KapilKhandelwal</h1>
+<h1 align="center">Hi 👋, I'm Kapil Khandelwal</h1>
 <h3 align="center">Aspiring Business Analyst from India</h3>
-- ⚡ Fun fact "Teaching data to tell a story"
+
+- ⚡ "Teaching data to tell a story"
 
 - 🌱 I’m gaining knowledge in Excel | PowerBI | SQL | JIRA | Understanding Business methodologies & Processes
 
