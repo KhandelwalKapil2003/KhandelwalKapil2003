@@ -1,12 +1,12 @@
 ![logo](https://github.com/KhandelwalKapil2003/KhandelwalKapil2003/blob/main/.png)
 <h1 align="center">Hi 👋, I'm KapilKhandelwal</h1>
 <h3 align="center">Aspiring Business Analyst from India</h3>
-src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+- ⚡ Fun fact "Teaching data to tell a story"
+
 - 🌱 I’m gaining knowledge in Excel | PowerBI | SQL | JIRA | Understanding Business methodologies & Processes
 
-- 📫 How to reach me kkhandelwal81800@gmail.com
+- 📫 How to reach me : kkhandelwal81800@gmail.com
 
-- ⚡ Fun fact "Teaching data to tell a story"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
