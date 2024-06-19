@@ -1,4 +1,4 @@
-![logo](https://github.com/KhandelwalKapil2003/KhandelwalKapil2003/blob/main/Github%20Background.png)
+![logo](https://github.com/KhandelwalKapil2003/KhandelwalKapil2003/blob/main/GithubBg.png)
 <h1 align="center">Hi 👋, I'm Kapil Khandelwal</h1>
 <h3 align="center">Computer Engineer & Aspiring Business Analyst from India</h3>
 
