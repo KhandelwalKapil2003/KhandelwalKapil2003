@@ -1,6 +1,6 @@
 ![logo](https://github.com/KhandelwalKapil2003/KhandelwalKapil2003/blob/main/GithubBg.png)
 <h1 align="center">Hi 👋, I'm Kapil Khandelwal</h1>
-<h3 align="center">Computer Engineer & Aspiring Business Analyst from India</h3>
+<h3 align="center">Computer Engineer & Aspiring Business Analyst and similar roles </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khandelwalkapil&label=Profile%20views&color=0e75b6&style=flat" alt="khandelwalkapil" /> </p>
 
